@@ -3,7 +3,6 @@
   This project aims to predict customer churn for a telecommunications company using machine learning techniques. The goal is to identify customers who are likely to leave the service in the near future, enabling the company to take proactive measures to retain these customers.
   ## Project Structure
   - **"Telco Customer Churn using ML.ipynb"**: The Jupyter notebook containing the full implementation of the project.
-  - **"data/"**: Directory containing the dataset used for the project.
   - **"README.md"**: Project documentation.
   ## Tools and Technologies
   - **Programming Language**: Python
